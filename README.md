@@ -93,14 +93,3 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/ermismbatuh
 * Add SHAP values for model explainability
 * Deploy using Flask or Streamlit for real-time predictions
 * Integrate dashboard into a BI tool like Power BI or Tableau
-
----
-
-## 👨‍💻 Author
-
-**Gautam Malhotra**
-[LinkedIn](https://www.linkedin.com/in/gautam-malhotra-78a274220/) | [GitHub](https://github.com/Gautamm188)
-
----
-
-Let me know if you'd like this in `README.md` format or want a demo video/GIF included!
